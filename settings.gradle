@@ -1,0 +1,8 @@
+/*dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        // Warning: this repository is going to shut down soon
+    }
+}*/
+rootProject.name = "Dicionario Clean"
+include ':app'
